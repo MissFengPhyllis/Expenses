@@ -1,0 +1,3 @@
+# SmartE
+
+Testing Codeship.
